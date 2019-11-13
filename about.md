@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I am Raj Patel. I am CS Grad student @ University of Southern California. I am fast learner, even tempered, optimistic and minimalism loving person. I believe <strong>Minimalism is the best luxury.</strong></p>
+<p>Hi, I am Raj Patel. I am CS Grad student @ University of Southern California. I like full stack development. I am fast learner, even tempered, optimistic and minimalism loving person. I believe <strong>Minimalism is the best luxury.</strong></p>
 
 <h2>Skills</h2>
 
