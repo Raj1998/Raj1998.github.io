@@ -3,7 +3,7 @@ title: "Smart RSVP web app"
 layout: post
 date: 2019-11-16 22:10
 tag: personal_projects
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+# image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
