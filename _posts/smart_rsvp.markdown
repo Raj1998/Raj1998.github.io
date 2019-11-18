@@ -15,7 +15,7 @@ externalLink: false
 
 <!-- ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png) -->
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Example of project - [Demo](https://github.com/Raj1998/smart-RSVP/blob/master/res_imgs/demo.mov). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
 ---
 
