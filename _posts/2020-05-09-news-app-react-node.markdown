@@ -13,13 +13,13 @@ author: Raj
 externalLink: false
 ---
 
-This is a web application for the class project of CSCI 571 - Web Technologies at USC
-Example of project - [Demo](#).
+This is a web application for the class project of CSCI 571 - Web Technologies at USC. The webapp is responsive and uses auto suggestions api from Azure 
+Example of project. - [Demo](#).
 
 ---
 
-[Check it out](https://django-app-241.herokuapp.com/) here.
-If you want to see code, just [Here](https://github.com/Raj1998/smart-RSVP).
+[Check it out](#) here.
+If you want to see code, just [Here](https://github.com/Raj1998/news-app-react-node).
 
 ---
 
@@ -29,6 +29,7 @@ What has inside?
 - Bootstrap4
 - NodeJs
 - Ajax
+- Responsive Web Design
 
 ---
 
