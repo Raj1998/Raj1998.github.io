@@ -13,12 +13,12 @@ author: Raj
 externalLink: false
 ---
 
-This is a web application for the class project of CSCI 571 - Web Technologies at USC. The webapp is responsive and uses auto suggestions api from Azure 
-Example of project. - [Demo](#).
+This is a web application for the class project of CSCI 571 - Web Technologies at USC. The webapp is responsive and uses auto suggestions api from Azure. Aws lambda is used for REST API.
+Example of project. - [Demo](http://news-app-cs571.s3-website-us-east-1.amazonaws.com/#/).
 
 ---
 
-[Check it out](#) here.
+[Check it out](http://news-app-cs571.s3-website-us-east-1.amazonaws.com/#/) here.
 If you want to see code, just [Here](https://github.com/Raj1998/news-app-react-node).
 
 ---
