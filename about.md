@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I am Raj Patel. I am CS Grad student @ University of Southern California. I was an intern at Amazon.com LLC during Summer 2020.  I was part of Web-Frameworks team and I created a project for a micro content execution tool called 'Card', which is used in Amazon's retail website.</p>
+<p>Hi, I am Raj Patel. I am CS Grad student @ University of Southern California. I was an intern at <strong>Amazon.com LLC</strong> during Summer 2020.  I was part of Web-Frameworks team and I created a project for a micro content execution tool called 'Card', which is used in Amazon's retail website.</p>
 
 <p>I like full stack development. I am fast learner, even tempered, optimistic and minimalism loving person. I believe <strong>Minimalism is the best luxury.</strong></p>
 
@@ -12,6 +12,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Python</li>
+	<li>NodeJS</li>
 	<li>PHP</li>
 	<li>MySQL</li>
 	<li>HTML</li>
