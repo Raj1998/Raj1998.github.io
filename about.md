@@ -6,6 +6,10 @@ layout: page
 
 <p>Hi, I am Raj Patel. I am CS Grad student @ University of Southern California. I was an intern at <strong>Amazon.com LLC</strong> during Summer 2020.  I was part of Web-Frameworks team and I created a project for a micro content execution tool called 'Card', which is used in Amazon's retail website.</p>
 
+<p>
+At <strong>Convrrt Inc</strong> as a full-stack engineer, I am currently working on the development of a web page builder tool, using which users can create web pages without writing code. I use VueJS and ReactJS for creating UI components. I Handle backend code for infrastructure on GCP and create REST APIs for the product.
+</p>
+
 <p>I like full stack development. I am fast learner, even tempered, optimistic and minimalism loving person. I believe <strong>Minimalism is the best luxury.</strong></p>
 
 <h2>Skills</h2>
