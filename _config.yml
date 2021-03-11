@@ -3,7 +3,7 @@ name: Raj Patel
 bio: CS Grad student @ <strong>University of Southern California</strong>
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Software Engineering | Former SDE Intern @ Amazon | CS Grad student @ USC
 
 # if it's an external image, update below for true
 # better with square images
@@ -57,7 +57,7 @@ email: raj1998211@gmail.com
 authors:
     johndoe:
         name: Raj Patel
-        bio: A Man who travels the world eating noodles
+        bio: Software Engineering | Former SDE Intern @ Amazon | CS Grad student @ USC
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
